@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stage
+  - Unit1
+  - Unit2
+  - Castle1
+  - Castle2
+  - StrategyStage
+  - SummonZone_p1
+  - SummonZone_p2
+  - StrategyCard1
+  - StrategyCard2
+  - UnitCard1
+  - UnitCard2
+  - Canvas
+  - Cursor1
+  - Cursor2
+  - StrategyCard
+  - Frame
+  - Dragon1
+  - Dragon2
+  - Cooltime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Castle
+  - Unit
+  - HpBar
+  - 
+  - 
+  - player1
+  - player2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

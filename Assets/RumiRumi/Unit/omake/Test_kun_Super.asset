@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b758efe78793d2a40ac453aa166209b0, type: 3}
+  m_Name: Test_kun_Super
+  m_EditorClassIdentifier: 
+  unit_name: "\u30C6\u30B9\u30C8\u541B"
+  unit_type: 1
+  unit_object: {fileID: 7681371508390153953, guid: a73970904ec41ad459998a6a468b4cde, type: 3}
+  Price: 10
